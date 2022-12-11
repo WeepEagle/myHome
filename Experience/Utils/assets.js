@@ -6,19 +6,19 @@ export default [
   {
     name: 'room',
     type: 'glbModel',
-    path: '/myHome/models/MyHome.glb',
-    // path: './MyHome.glb',
+    // path: '/myHome/models/MyHome.glb',
+    path: '/models/MyHome.glb',
   },
   {
     name: 'screen',
     type: 'videoTexture',
-    path: '/myHome/textures/miao.mp4',
-    // path: './miao.mp4',
+    // path: '/myHome/textures/miao.mp4',
+    path: '/textures/miao.mp4',
   },
   {
     name: 'window',
     type: 'videoTexture',
-    path: '/myHome/textures/miao.mp4',
-    // path: './miao.mp4',
+    // path: '/myHome/textures/miao.mp4',
+    path: '/textures/miao.mp4',
   },
 ]
