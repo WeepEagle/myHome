@@ -7,18 +7,18 @@ export default [
     name: 'room',
     type: 'glbModel',
     // path: '/my-home/models/MyHome.glb',
-    path: './MyHome.glb',
+    path: '/models/MyHome.glb',
   },
   {
     name: 'screen',
     type: 'videoTexture',
     // path: '/my-home/textures/miao.mp4',
-    path: './miao.mp4',
+    path: '/textures/miao.mp4',
   },
   {
     name: 'window',
     type: 'videoTexture',
     // path: '/my-home/textures/miao.mp4',
-    path: './miao.mp4',
+    path: '/textures/miao.mp4',
   },
 ]
